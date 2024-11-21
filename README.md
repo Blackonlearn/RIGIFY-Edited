@@ -1,12 +1,20 @@
 <!-- FEATURES -->
 
-## Custom Rigify
+# Custom Rigify
 This project enhances Blender's Rigify add-on by introducing the ability to set a custom basename for your rig. The basename dynamically updates key elements of the rig and generates a UI panel category that corresponds to the basename.
+
+
+## What is it ?
+
+![Feature 001](https://github.com/user-attachments/assets/0b05113b-18d4-49cd-a74f-15ceeb124aa1)
+
+https://github.com/user-attachments/assets/fa222a09-9004-44e6-981e-dafdb7bd548b
+
+** Notice that rigs from wasd and xxx into something entered to the rig name text column**
 
 
 ## Features
 
-![Feature 001](https://github.com/user-attachments/assets/0b05113b-18d4-49cd-a74f-15ceeb124aa1)
 
 1. **Custom Basename Support:**
       - [ ] Define a custom basename using the rigify_rig_basename property in the Armature's data.
