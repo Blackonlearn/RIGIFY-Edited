@@ -47,5 +47,5 @@ This project enhances Blender's Rigify add-on by introducing the ability to set 
    Restart Blender to ensure the updated Rigify add-on is loaded.
 
 ### **Step 5: Enable Rigify**
-    1. Open ``` Edit > Preferences > Add Ons.```
+    1. Open Edit > Preferences > Add Ons.
     2. Search for _Rigify_ and ensure it is enabled
