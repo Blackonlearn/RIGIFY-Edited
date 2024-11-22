@@ -1,5 +1,11 @@
 <!-- FEATURES -->
 
+## Contact:
+- [ ] https://instagram.com/bong.qhi/
+- [ ] https://threads.net/@bong.qhi
+- [ ] https://twitter.com/midclips
+
+      
 # Custom Rigify
 This project enhances Blender's Rigify add-on by introducing the ability to set a custom basename for your rig. The basename dynamically updates key elements of the rig and generates a UI panel category that corresponds to the basename.
 
